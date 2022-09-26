@@ -4,7 +4,7 @@ This is my 2nd self-made synthesizer. This project is based on the [Circle Drone
 - an echo/reverb unit
 - an interface to sync with other synths (Sync24/DIN Sync)
 
-
+![image](images/add.jpg)
 
 ## Sources
 
