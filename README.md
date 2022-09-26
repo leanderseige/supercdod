@@ -12,7 +12,7 @@ This is my 2nd self-made synthesizer. This project is based on the [Circle Drone
 
 - Echo circuit, using PT2399: https://www.petervis.com/guitar-circuits/pt2399/testing-and-troubleshooting.html
 
-- I used an LM358 Signal Amplifier Module. I stumbled across it's existence while researching for another project (https://www.hackster.io/mircemk/diy-sensitive-arduino-ib-metal-detector-d5e029). This module seems to be sold by many sellers. I bought this one: https://www.amazon.de/gp/product/B08216TP3D
+- I used a cheap premanufactured LM358 signal amplifier module. I stumbled across it's existence while researching for another project (https://www.hackster.io/mircemk/diy-sensitive-arduino-ib-metal-detector-d5e029). This module seems to be sold by many sellers. I bought this one: https://www.amazon.de/gp/product/B08216TP3D
 
 ## Circuit Diagram
 
