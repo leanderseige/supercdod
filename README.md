@@ -16,10 +16,16 @@ This is my 2nd self-made synthesizer. This project is based on the [Circle Drone
 
 ## Circuit Diagram
 
+Overview
+
+![image](circuit/blocks.png)
+
+The circuit diagram may contain errors! Build only on your own risk! Please think and rethink when building the circuit.
+
+Notes:
+* The diode D5 may seem useless here, actually I should have put it between the output of the UDN2981 and the optocoupler.
+* C1/6/8/9/13/17 choose between 1 and 10 uF according to the description of the original Circle Drone of Doom.
+
+![image](circuit/circuit.png)
+
 ## Video
-
-
-
-
-
-
