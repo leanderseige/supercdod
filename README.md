@@ -53,4 +53,4 @@ Notes:
 
 [<img src="images/video2.jpg" width="50%">](https://youtu.be/WxrPusPA3z4 "Super CDoD Demo 2")
 
-[<img src="images/video2.jpg" width="50%">](https://youtu.be/dmkU6_3fm0E "Super CDoD Demo 1")
+[<img src="images/video1.jpg" width="50%">](https://youtu.be/dmkU6_3fm0E "Super CDoD Demo 1")
